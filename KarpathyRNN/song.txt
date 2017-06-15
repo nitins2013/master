@@ -1,0 +1,1 @@
+In the past few years we have seen an increasing trend in usage of Deep learning to solve complex business problems. Main driver for this is the advancement in computation as well as storage infrastructure, we have GPUs being used to expedite the learning process. All this coupled with great cloud infrastructure is poised to provide substantial growth to business.
